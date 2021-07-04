@@ -1,0 +1,211 @@
+.divform{
+
+  
+    background-repeat:round; 
+    margin-left: auto;
+    margin-right: auto;
+    width:30%;
+    display: flex;
+    align-items: center;
+   margin-top: 300px;
+  
+   
+ 
+}
+
+body{
+background-image:url('background.jpg');
+background-size:cover;
+justify-items: center;
+float: left auto;
+border-color: cadetblue;
+border-style: double;
+margin: 15px;
+
+
+
+}
+
+.Enterform{
+  
+    display: flex;
+    align-items: baseline;
+    justify-items: center;
+}
+
+ #play{
+     border-color:lightcoral;
+     background-color: lightcoral;
+     font-size: xx-large;
+
+ }
+
+
+ .numbers{
+width: 90%;
+height: 750px;
+margin: 0 auto;
+
+
+
+ }
+
+ #num1{
+
+    background-image: url("numbeOne.jpg");
+ }
+ .class1{
+
+    height:300px ;
+    width:250px;
+    justify-content: space-around;
+    margin-top: 10;
+    margin:5px; ;
+    float: left;
+    background-size: cover;
+   
+ 
+
+ }
+
+ #num2{
+
+    background-image: url('number2.jpg');
+ }
+ 
+ 
+#num3{
+background-image: url('number3.jpg');
+
+
+}
+#num4{
+    background-image: url('number4.jpg');
+    
+    
+    }
+    #num5{
+        background-image: url('number5.jpg');
+        
+        
+        } 
+        #num6{
+            background-image: url('number6.jpg');
+            
+            
+            }  
+            
+            #num7{
+                background-image: url('number7.jpg');
+                
+                
+                }   
+                #num8{
+                    background-image: url('number8.jpg');
+                    
+                    
+                    }   
+                    #num9{
+                        background-image: url('number9.jpg');
+                        
+                        
+                        }   
+                        .pic1{
+
+                            background-image: url('pic1.jpg');  
+                          
+                           margin: 0 auto;
+                           background-size:cover;
+                        
+                          
+                           
+                        }                           
+                        .pic2{
+
+                            background-image: url('pic2.png'); 
+                           
+                            background-size:cover;
+                            margin: 0 auto;
+                         }                           
+                         .pic3{
+
+                            background-image: url('pic3.jpg'); 
+                            
+                            background-size:cover;
+                            margin: 0 auto;
+                         }                          
+                         .pic4{
+
+                            background-image: url('pic4.jpg'); 
+                            
+                            background-size:cover;
+                            margin: 0 auto;
+                         }                           
+                         .pic5{
+
+                            background-image: url('pic5.jpg'); 
+                            
+                            background-size:cover;
+                            margin: 0 auto;
+                         }                           
+                         .pic6{
+
+                            background-image: url('pic6.jpg'); 
+                            
+                            background-size:cover;
+                            margin: 0 auto;
+                         }                           
+                         .pic7{
+
+                            background-image: url('pic7.jpg'); 
+                           
+                            background-size:cover;
+                            margin: 0 auto;
+                         }   
+                         .pic8{
+
+                            background-image: url('pic8.jpg'); 
+                           
+                            background-size:cover;
+                            margin: 0 auto;
+                         }    
+                         .pic9{
+
+                            background-image: url('pic9.jpg'); 
+                           
+                         }
+                         #done{
+
+background-image: url('good-job-21.gif');
+display: none;
+
+                         }                          
+                   
+                        .star {
+display: none;
+position: fixed;
+                           
+
+                        }
+
+                        .dislike {
+                           display: none;
+                           position: fixed;
+                   
+                           
+                           
+                                                   }                      
+                        #img{
+margin-bottom: 20px;
+width:700px;
+height: 400px;
+background-size:cover;
+margin-top:5px ;
+margin-block-start: 20px;
+margin-left: 400px;
+padding-top: 100px;
+display: block;
+
+                        }
+
+
